@@ -1,0 +1,40 @@
+.mine{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.input{
+    width: 60%;
+    height: 40px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight:bold;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.imag{
+    height: 30%;
+    width: 30%;
+}
+input:hover{
+    background-color: black;
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.butn{
+   padding: 8px;
+   margin: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px solid;
+
+}
+.butn:hover{
+    background-color: black;
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+
+}
